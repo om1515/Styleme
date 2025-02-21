@@ -1,3 +1,9 @@
+#my name is anthony gonsalvis
+
+
+
+
+
 from PIL import Image
 import requests
 
